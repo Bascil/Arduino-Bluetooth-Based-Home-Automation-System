@@ -2,6 +2,7 @@
 This system enables you to control your home applicances through bluetooth.
 
 What you need:
+
 -Arduino UNO/Mega or any compatible arduino board
 
 -Android App
@@ -44,7 +45,7 @@ WIRING
 
 -Connect the GND(ground) pin of relay to the ground rail of the breadboard
 
--Strip off the other end of the Power cable from 220V AC to obtain the live and neutral wire(TURN OFF AC POWER WHEN PERFOMING THIS!!!!!!!)
+-Strip off the other end of the Power cable from 220V AC to obtain the live and neutral wire(TURN OFF AC POWER WHEN PERFOMING   THIS!!!!!!!)
 
 -Make a junction of 4 wires using 4 connecting wires from the LIVE wire and connect to the COM(common) i.e. COM 1,COM2,COM3,COM 4 of the relay module.
 
