@@ -25,6 +25,7 @@ CAUTION:This project uses 220V AC power.Proceed at your own risk.Electricity can
 
 Procedure
 WIRING
+
 -Power the arduino and upload the arduino code to the arduinoboard
 
 -Connect the Rx pin of HC-06 Bluetooth module to the Tx pin(PIN 1) of arduino
@@ -54,6 +55,7 @@ WIRING
 -Make a junction of 4 wires using 4 connecting wires from the NEUTRAL wire and connect to the other side of the 4 bulbs(you could use any of the sides of the bulb)
 
 BLUETOOTH ANDROID APP
+
 -Install the app on an android phone
 
 -Turn on bluetooth on the phone and power the arduino and AC power(The bluetoth LED will  blink severally)
